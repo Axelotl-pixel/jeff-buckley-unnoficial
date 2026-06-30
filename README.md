@@ -1,2 +1,2 @@
-# Jeff Buckley
-fan-made website about jeff buckley
+# big thief
+fan-made website about big thief
