@@ -60,11 +60,10 @@ nav .navigation
 display: flex;
 }
  
-#menu-btn
-{
-width: 30px;
-height: 30px;
-display: none;
+#menu-btn {
+    font-size: 1.6rem;
+    cursor: pointer;
+    display: none;
 }
  
 #menu-close
