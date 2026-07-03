@@ -385,12 +385,9 @@ cursor: pointer;
  
  
 /*------------- Latest Release section styling start ----------*/
-#latest-release{
-    padding:80px 8%;
-    background:#7272729a;
-    color:#fff;
-    text-align:center;
-}
+background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("img/backed.jpg");
+background-size: cover;
+background-position: center;
  
 #latest-release .latest-release-content{
     max-width:700px;
