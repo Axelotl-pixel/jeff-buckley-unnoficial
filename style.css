@@ -51,8 +51,8 @@ z-index: 1;
  
 nav .logo
 {
-width: 150px;
-cursor: pointer;
+width: 150px;  
+height: auto; 
 }
  
 nav .navigation
