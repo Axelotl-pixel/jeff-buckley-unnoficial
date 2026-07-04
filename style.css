@@ -53,9 +53,9 @@ z-index: 1;
 /* FIXED: logo selector was missing */
 nav .logo
 {
-width: 180px;
+width: 210px;
 height: auto;
-max-height: 55px;
+max-height: 58px;
 object-fit: contain;
 cursor: pointer;
 }
